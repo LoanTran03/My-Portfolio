@@ -44,5 +44,5 @@ The following technologies will be utilized to develop this website:
 The website will be deployed on the GitHub platform, providing a reliable and accessible hosting solution.
 This allows for easy version control, collaboration, and seamless integration with other tools or services if needed.
 
-Visit me: 
+Visit me: https://loantran03.github.io/My-Portfolio/
 
